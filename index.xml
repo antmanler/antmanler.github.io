@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中老年程序人生</title>
-    <link>https://antmanler.github.io/</link>
+    <link>https://blog.zhaob.in/</link>
     <description>Recent content on 中老年程序人生</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/antmanler&#34;&gt;antmanler&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Sun, 04 Feb 2018 13:33:48 +0800</lastBuildDate>
     
-	<atom:link href="https://antmanler.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zhaob.in/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://antmanler.github.io/posts/welcome/</link>
+      <link>https://blog.zhaob.in/posts/welcome/</link>
       <pubDate>Sun, 04 Feb 2018 13:33:48 +0800</pubDate>
       
-      <guid>https://antmanler.github.io/posts/welcome/</guid>
+      <guid>https://blog.zhaob.in/posts/welcome/</guid>
       <description>就这样，开始了。。。</description>
     </item>
     
